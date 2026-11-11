@@ -1,2 +1,1 @@
-# sales-analysis-practice
-Python programs, practice exercises, and coding examples from my journey of learning Python
+This repository contains Python code and programs that I developed while learning and practicing Python. It includes basic concepts, programming exercises, problem-solving examples, and practical implementations that helped me strengthen my Python programming skills. I am sharing my learning journey on GitHub to track my progress and help others who are also learning Python.
